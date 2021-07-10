@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/federicobertossi/Desktop/4DMathEngine/V4DEngine.cpp
+iostream
+-
+V4DEngine.h
+/Users/federicobertossi/Desktop/4DMathEngine/V4DEngine.h
+
+/Users/federicobertossi/Desktop/4DMathEngine/V4DEngine.h
+
+/Users/federicobertossi/Desktop/4DMathEngine/main.cpp
+iostream
+-
+V4DEngine.h
+/Users/federicobertossi/Desktop/4DMathEngine/V4DEngine.h
+
